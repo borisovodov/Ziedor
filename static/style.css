@@ -5,9 +5,13 @@
 
 body {
     font-family: 'PT Serif', serif;
-    background: #fefcf1;
+    background-color: #fefcf1;
+}
+
+img {
+    background-color: #fefcf1;
 }
 
 nav {
-    background: #fff5cd;
+    background-color: #fff5cd;
 }
