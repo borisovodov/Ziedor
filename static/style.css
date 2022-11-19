@@ -5,11 +5,13 @@
 
 body {
     font-family: 'PT Serif', serif;
-    background-color: #fefcf1;
+    /*background-color: #fefcf1;*/
+    background-color: #f7f1e7;
 }
 
 img {
-    background-color: #fefcf1;
+    /*background-color: #fefcf1;*/
+    background-color: #f7f1e7;
 }
 
 nav {
